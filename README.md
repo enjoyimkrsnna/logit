@@ -59,11 +59,9 @@ Logit is an Android application designed to help students, particularly those pu
 
 - **Android SDK**: The application is built using the Android SDK.
 
-
 ## Acknowledgements
 
 - The application was created to assist students in accurately calculating logarithms and anti-logarithms for academic purposes.
-
 
 ## Screenshots
 
