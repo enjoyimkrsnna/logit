@@ -61,11 +61,15 @@ Logit is an Android application designed to help students, particularly those pu
 
 ## Screenshots
 
+![e7359907-13de-4635-85fd-929a2b5f69d0](https://github.com/user-attachments/assets/d84e34b9-91e3-4c59-aff7-38e5906716b6)
+![8d009d73-578d-4e8d-a5d5-1108c156c32f](https://github.com/user-attachments/assets/a521318d-0cf5-4bca-9741-aca0b495b40a)
+![7875c5be-d04c-4728-8f9c-269b34a09ffa](https://github.com/user-attachments/assets/98a49e36-862a-46d0-8e1a-3898bad85978)
+![22679ae8-84de-4afe-aae3-a869c9f07949](https://github.com/user-attachments/assets/d5a4dfc7-1f59-4cd6-8196-754c1e83cae0)
+![8705d681-8e67-4aa1-a1e2-5e186a849841](https://github.com/user-attachments/assets/1b2713e0-aec7-4961-b962-1582dc50f0b2)
+![d2a8c315-e80a-4f78-ab47-25f62cd5e506](https://github.com/user-attachments/assets/bd6e30ce-e3a1-4b72-be69-78caad748b73)
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
