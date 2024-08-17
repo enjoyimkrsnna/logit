@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">log it</string>
+    <string name="let_s_log_it">Let\'s Log it!  </string>
+    <string name="select_view">What\'s in your mind?</string>
+    <string name="let_s_get_the_log">Let\'s Find the log</string>
+    <string name="find_out_anti_log">Find Out Anti-log</string>
+
+    <string name="enter_value_here">Enter Value here!</string>
+    <string name="log_and_antilog">About log and Antilog</string>
+    <string name="about_log_and_antilog" translatable="false">In Mathematics, logarithms are the other way of writing the exponents. A logarithm of a number with a base is equal to another number. A logarithm is just the opposite function of exponentiation. For example, if 102 = 100 then log^10 100 = 2.\nHence, we can conclude that,\nLogb x = n  or   bn = x Where b is the base of the logarithmic function.\nThis can be read as “Logarithm of x to the base b is equal to n”.\n</string>
+    <string name="types_of_log" >In most cases, we always deal with two different types of logarithms, namely\n\n<b>1. Common Logarithm</b>\n<b>2. Natural Logarithm</b></string>
+    <string name="common_algo" >The common logarithm is also called the base 10 logarithms. It is represented as log10 or simply log. For example, the common logarithm of 1000 is written as a log (1000). The common logarithm defines how many times we have to multiply the number 10, to get the required output.
+For example, log (100) = 2
+If we multiply the number 10 twice, we get the result 100.</string>
+    <string name="natural_algo" >The natural logarithm is called the base e logarithm. The natural logarithm is represented as ln or loge. Here, “e” represents the Euler’s constant which is approximately equal to 2.71828. For example, the natural logarithm of 78 is written as ln 78. The natural logarithm defines how many we have to multiply “e” to get the required output.
+For example, ln (78) = 4.357.
+Thus, the base e logarithm of 78 is equal to 4.357.</string>
+    <string name="antilog" >The antilog, or antilogarithm, is the inverse function of the logarithm. The antilogarithm of a number y is equal to the base b raised to the power of y (the exponent). That is, x is the antilog in base b of y, or expressed in symbols, x = antilogb(y), which is equivalent to x = b^y.</string>
+</resources>

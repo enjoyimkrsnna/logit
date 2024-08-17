@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#354F60"
+    android:padding="@dimen/_30sdp"
+    android:orientation="vertical"
+    tools:context=".about_log_and_antilog">
+    <ScrollView
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:text="Logarithms:"
+                android:textColor="@color/dashboard_item_2"
+                android:textSize="@dimen/_25sdp"
+                android:textStyle="bold"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_10sdp"
+                android:textColor="@color/white"
+                android:text="@string/about_log_and_antilog"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:text="Logarithm Types:"
+                android:textColor="@color/dashboard_item_2"
+                android:textSize="@dimen/_25sdp"
+                android:textStyle="bold"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:text="@string/types_of_log"
+                android:padding="@dimen/_10sdp"
+                android:textSize="@dimen/_15sdp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:text="Common Logarithm:"
+                android:textColor="@color/dashboard_item_2"
+                android:textSize="@dimen/_25sdp"
+                android:textStyle="bold"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:text="@string/common_algo"
+                android:padding="@dimen/_10sdp"
+                android:textSize="@dimen/_15sdp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:text="Natural Logarithm:"
+                android:textColor="@color/dashboard_item_2"
+                android:textSize="@dimen/_25sdp"
+                android:textStyle="bold"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:text="@string/natural_algo"
+                android:padding="@dimen/_10sdp"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:text="AntiLog:"
+                android:textColor="@color/dashboard_item_2"
+                android:textSize="@dimen/_25sdp"
+                android:textStyle="bold"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:text="@string/antilog"
+                android:padding="@dimen/_10sdp"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+        </LinearLayout>
+
+
+
+
+    </ScrollView>
+
+</LinearLayout>
